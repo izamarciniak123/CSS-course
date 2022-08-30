@@ -1,3 +1,7 @@
-article:nth-of-type(2n+1){
-    background: grey;
+article.feature-content{
+    background: red;
+}
+
+div.feature-content{
+    background: blue;
 }
