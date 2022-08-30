@@ -1,25 +1,24 @@
-/*************************
-*
-* Author: Izabela Blinkiewicz
-* Date: 30/08/22
-*
-***************************/
-
-
-
-/*Style all P tags */
+/* TARGETING ELEMENTS / TAGS */
 
 p{
-    font-size: 18px;
+    font-size: 12px;
+    color: red;
+}
+
+a{
+    text-decoration: underline;
     color: blue;
 }
 
-#header p{
-    font-size: 24px;
+span{
+    text-transform: uppercase;
 }
 
-/* Style all header tags */
-
 h1{
-    font-size: 44px;
+    font-size: 32px;
+}
+
+div{
+    width: 100%;
+    background-color: grey;
 }
