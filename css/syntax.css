@@ -1,7 +1,4 @@
-article.feature-content{
-    background: red;
+*{
+    color: blue;
 }
 
-div.feature-content{
-    background: blue;
-}
