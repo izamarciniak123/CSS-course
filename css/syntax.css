@@ -1,11 +1,23 @@
-#header p{
-    text-transform: capitalize;
+#header h1{
+    color: mediumblue;
 }
 
-body > p{
-    text-transform: uppercase;
+#header h2{
+    color: #567398;
 }
 
-body{
-    text-transform: none;
+#header{
+    background: antiquewhite;
+}
+
+a{
+    color: crimson;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover{
+    color: darkmagenta;
+    text-decoration: underline;
+    background-color: aquamarine;
 }
