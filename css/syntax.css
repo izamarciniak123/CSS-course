@@ -1,46 +1,9 @@
-.box{
-    margin: 20px;
-    padding: 20px;
-    float: left;
-    
-}
-
-.dashed{
-    border: 10px blue dashed;
-
-}
-
-.dotted{
-    border: 10px blue dotted;
-
-}
-
-.double{
-    border: 10px blue double;
-
-}
-
-.groove{
-    border: 10px blue groove;
-
-}
-
-.inset{
-    border: 10px blue inset;
-
-}
-
-.outset{
-    border: 10px blue outset;
-
-}
-
-.ridge{
-    border: 10px blue ridge;
-
-}
-
-.solid{
-    border: 10px blue solid;
-
+a{
+    padding: 10px;
+    margin: 10px;
+    background-color: gray;
+    border: 1px solid #aaa;
+    color: #000;
+    text-decoration: none;
+    display: inline-block;
 }
