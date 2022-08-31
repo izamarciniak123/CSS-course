@@ -1,9 +1,9 @@
-a{
-    padding: 10px;
-    margin: 10px;
-    background-color: gray;
-    border: 1px solid #aaa;
-    color: #000;
-    text-decoration: none;
-    display: inline-block;
+.static-width{
+    width: 600px;
+    height: 600px;
+    background-color: #606060;
+    background-image: url("https://docs.geoserver.org/master/en/user/_images/point_simplepoint2.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100px;
 }
